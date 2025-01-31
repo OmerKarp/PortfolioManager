@@ -52,7 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="src\Asset.cs" />
-    <Compile Include="src\Main.cs" />
+    <Compile Include="src\Encoder.cs" />
     <Compile Include="src\Person.cs" />
     <Compile Include="src\Portfolio.cs" />
   </ItemGroup>
